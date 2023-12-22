@@ -1,0 +1,40 @@
+body{
+    background-color: darkviolet;
+    
+}
+
+.description{
+    color: blue;
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.recipe-title{
+    color: green;
+    background-color: #fff;
+    text-align: center;
+    font-size: 30px;
+    font-weight:600
+}
+
+h3{
+    color: red;
+    background-color:chartreuse;
+    font-family: Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+
+
+p{
+    font-size: 28px;
+    color: aqua;
+}
+
+.ingredients-list,
+.directions-list {
+    font-size: 28px;
+    color: lime;
+    background-color: red;
+}
